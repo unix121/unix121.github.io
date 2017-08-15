@@ -61,6 +61,19 @@ ul {
     color: #98474c;
 }
 
+pre {
+    color: #98474c;
+    width: 90%;
+    align: center;
+    display: block;
+    margin: auto;
+}
+
+.skull {
+    font-size: 8px;
+    text-align: left;
+}
+
 div {
     background: #211e23;
     text-align: center;
